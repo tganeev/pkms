@@ -4,6 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/tganeev/pkms-frontend.git
-[submodule "mobile/pkms-reader"]
-	path = mobile/pkms-reader
-	url = https://github.com/tganeev/pkms-reader.git
+[submodule "database"]
+	path = database
+	url = https://github.com/tganeev/pkms-database.git
