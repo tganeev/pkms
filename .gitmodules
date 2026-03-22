@@ -7,3 +7,6 @@
 [submodule "database"]
 	path = database
 	url = https://github.com/tganeev/pkms-database.git
+[submodule "mobile/pkms-reader"]
+	path = mobile/pkms-reader
+	url = https://github.com/tganeev/pkms-reader.git
