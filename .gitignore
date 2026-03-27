@@ -1,0 +1,38 @@
+# Сабмодули не игнорируем, они управляются отдельно
+# Но игнорируем временные файлы внутри них
+backend/target/
+frontend/node_modules/
+frontend/build/
+
+# Docker
+docker-compose.override.yml
+.env
+*.pid
+
+# IDE для корневого проекта
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.db
+*.sqlite
+*.dump
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Local configuration
+*.local
+*.secret
