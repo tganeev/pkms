@@ -119,4 +119,26 @@
 Проект распространяется под лицензией BSD 3-Clause License.
 
 
+## 🙏 Благодарности
+
+- **Readium** — за отличный SDK для работы с электронными книгами
+- **Kotlin** — за прекрасный язык программирования
+- **Jetpack** — за качественные библиотеки
+
+
+## 📞 Контакты
+
+### Разработчик
+
+| Канал | Информация |
+|-------|------------|
+| **Имя** | Lan Artes |
+| **Email** | [tganeev@mail.ru](mailto:your.email@example.com) |
+| **GitHub** | [github.com/tganeev](https://github.com/tganeev) |
+| **Telegram** | [t.me/tganeev](https://t.me/tganeev) |
+
+<p align="center">
+  <sub>Built with ❤️ and open source</sub>
+</p>
+
 
