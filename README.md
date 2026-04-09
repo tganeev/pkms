@@ -115,8 +115,26 @@
      
    
 
-## 📄 Лицензия
-Проект распространяется под лицензией BSD 3-Clause License.
+## ⚖️ Лицензия
+
+**PKMS Reader** распространяется под лицензией **BSD 3-Clause License**.
+
+Отдельные компоненты проекта, включая **Readium SDK**, также используют лицензию BSD 3-Clause. Полный текст лицензии можно найти в файле `LICENSE` в корне репозитория.
+
+### Используемые сторонние библиотеки и их лицензии:
+
+| Библиотека | Лицензия |
+|------------|----------|
+| Readium SDK | BSD 3-Clause |
+| Kotlin | Apache 2.0 |
+| Jetpack Compose | Apache 2.0 |
+| Room | Apache 2.0 |
+| Retrofit | Apache 2.0 |
+| OkHttp | Apache 2.0 |
+| Picasso | Apache 2.0 |
+| Timber | Apache 2.0 |
+
+---
 
 
 ## 🙏 Благодарности
