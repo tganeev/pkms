@@ -10,3 +10,6 @@
 [submodule "modules/pkms-reader"]
 	path = modules/pkms-reader
 	url = https://github.com/tganeev/pkms-reader.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/tganeev/mobile.git
